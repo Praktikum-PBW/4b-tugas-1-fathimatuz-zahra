@@ -1,0 +1,36 @@
+*{
+    font-family: Poppins;
+    line-height: 25px;
+}
+
+.judul{
+    text-align: center;
+}
+
+p.category{
+    font-size: 13px;
+    color: grey;
+}
+
+p.by{
+    font-size: 15px;
+    color: grey;
+}
+
+li.href{
+    text-decoration: none;
+}
+
+.content{
+    margin-left: 315px;
+    margin-right: 315px;
+}
+
+article p::first-letter{
+    font-weight: bold;
+	font-size: 40px;
+}
+
+.footer{
+    font-size: 13px;
+}
